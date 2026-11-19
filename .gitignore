@@ -1,0 +1,3 @@
+
+# Binaires lourds (> 100 Mo, refuses par GitHub)
+*.apk
